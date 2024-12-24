@@ -1,0 +1,12 @@
+name: DiagnosticDataset
+title: DiagnosticDataset
+username: rmayormartins
+account: rmayormartins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13138297
+bundleId: 9392638
+url: https://rmayormartins.shinyapps.io/DiagnosticDataset/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
